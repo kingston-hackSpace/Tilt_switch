@@ -27,3 +27,4 @@ At hackSpace we have two module types:
 ---
 ## CODE and INSTRUCTIONS
 
+### 3-PIN Tilt Switch
