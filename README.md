@@ -20,9 +20,8 @@ At hackSpace we have two module types:
 ---
 ## WIRING
 
-Diagram: 3-pin module
+<img src="Tilt_3pin_bb.jpg" width="400">
 
-Diagram: 4-pin module
 
 ---
 ## CODE and INSTRUCTIONS
