@@ -22,6 +22,8 @@ At hackSpace we have two module types:
 
 <img src="Tilt_3and4pin_bb.jpg" width="800"> 
 
+*Click on the image to expand diagram
+
 ---
 ## CODE and INSTRUCTIONS
 
