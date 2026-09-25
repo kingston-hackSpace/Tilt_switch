@@ -17,6 +17,8 @@ At hackSpace we have two module types:
 
 - LED
 
+- 220ohms resistor
+
 ---
 ## WIRING
 
@@ -28,3 +30,7 @@ At hackSpace we have two module types:
 ## CODE and INSTRUCTIONS
 
 ### 3-PIN Tilt Switch
+
+- Upload this code to your Arduino Board.
+
+- 
