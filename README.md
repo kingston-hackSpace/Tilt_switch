@@ -20,7 +20,7 @@ At hackSpace we have two module types:
 ---
 ## WIRING
 
-<img src="Tilt_3and4pin_bb.jpg" width="300"> 
+<img src="Tilt_3and4pin_bb.jpg" width="500"> 
 
 ---
 ## CODE and INSTRUCTIONS
