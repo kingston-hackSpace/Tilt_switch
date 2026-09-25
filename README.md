@@ -29,13 +29,15 @@ At hackSpace we have two module types:
 ---
 ## CODE and INSTRUCTIONS
 
-### 3-PIN Tilt Switch
+- The following code is suitable for both tilt switches, just be careful in the wiring.
 
-- Upload this code to your Arduino Board.
+- Upload this code to your board.
+
+- Flip your bradboard + tilt switch upside down, the LED should turn on!
 
 ```
-int LED = 2; 
-int tiltPin = 3;  
+int LED = 2; // L-pin
+int tiltPin = 3;  // S-pin
 int tilt; 
 
 void setup(){
@@ -57,6 +59,5 @@ void loop(){
 
 ```
 
-- Flip your bradboard + tilt switch upside down, the LED should turn on!
 
-### 4-PIN Tilt Switch
+
