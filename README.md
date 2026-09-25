@@ -33,4 +33,30 @@ At hackSpace we have two module types:
 
 - Upload this code to your Arduino Board.
 
-- 
+```
+int LED = 2; 
+int tiltPin = 3;  
+int tilt; 
+
+void setup(){
+  Serial.begin(9600);
+  pinMode(LED,OUTPUT); 
+  pinMode(tiltPin,INPUT); 
+}
+
+void loop(){
+  tilt = digitalRead(tiltPin); 
+  Serial.println(tilt);
+
+  if(tilt == HIGH) {
+    digitalWrite(LED,HIGH);
+  } else {
+  digitalWrite(LED,LOW);
+  }
+}
+
+```
+
+- Flip your bradboard + tilt switch upside down, the LED should turn on!
+
+### 4-PIN Tilt Switch
