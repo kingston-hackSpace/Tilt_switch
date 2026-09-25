@@ -6,7 +6,7 @@ At hackSpace we have two module types:
 
 - 3-pin module (no LED)
 
-- 4-pin module (with LED)
+- [4-pin module (with LED)](https://arduinomodules.info/ky-027-magic-light-cup-module/)
 
 ---
 ## HARDWARE
